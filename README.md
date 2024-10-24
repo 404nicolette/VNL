@@ -10,3 +10,6 @@ Acknowledgement:
 The VNL dataset was taken at **Kaggle from incDATA**
 
 <https://www.kaggle.com/datasets/incdata/vnl-women-2024>
+
+
+_projected created back in August 2024_
