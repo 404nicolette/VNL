@@ -8,4 +8,5 @@ prediction was not based on any statistical measure but rather on _baseless assu
 
 Acknowledgement:
 The VNL dataset was taken at **Kaggle from incDATA**
-LINK: <https://www.kaggle.com/datasets/incdata/vnl-women-2024>
+
+<https://www.kaggle.com/datasets/incdata/vnl-women-2024>
